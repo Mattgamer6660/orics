@@ -15,4 +15,14 @@ callouts:
   warning:
     title: Warning
     color: red
-  
+  new:
+    title: New
+    color: green
+  old:
+    title: Old/Not Updated
+    color: yellow
+  important:
+    title: IMPORTANT
+    color: blue
+
+color_scheme: dark
