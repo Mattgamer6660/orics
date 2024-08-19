@@ -8,3 +8,11 @@ aux_links:
   Primary Operations.: https://www.roblox.com/groups/7595770/Orion-Research-Initiative#!/about
   Containment District.: https://www.roblox.com/groups/8664655/Energy-Corp-Response-Team#!/about
   Administrative Operations.: https://www.roblox.com/groups/9777413/The-Foundation-SCP-F#!/about
+  
+aux_links_new_tab: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  
