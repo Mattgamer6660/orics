@@ -10,7 +10,7 @@ nav_order: 2
 
 - Breaching anomalys as any FP.
 - Camping.
-- Cross-Teaming with D-S or RC.
+- Cross-Teaming with D-S or DHC.
 - Messing with the authorization tablet for no reason.
 - Allowing D-S to roam the outpost as a FP.
   - FP are not allowed to use anyone from the subject pool as a "personnal assistant", we tried it before.
